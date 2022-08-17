@@ -8,8 +8,8 @@ class MathTest {
     @Test
     fun testAdd() {
         val math = Arithmetic()
-        val actual = math.add(3, 4)
-        assertEquals(7, actual)
+        val actual = math.add(3, 5)
+        assertEquals(8, actual)
     }
 
     @Test
