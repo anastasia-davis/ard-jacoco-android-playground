@@ -23,6 +23,8 @@ class Arithmetic : MathOperation {
     }
 
     fun area(a: Int, b: Int): Int {
+        
+        
         return a * b
     }
 }
